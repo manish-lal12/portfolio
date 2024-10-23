@@ -1,4 +1,4 @@
-##Portfolio Website
+**Portfolio Website
 
 This is a minimal portfolio website showcasing my technological stacks and projects I havw worked on.
 It was built using ReactJS.
